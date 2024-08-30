@@ -1,5 +1,5 @@
 // import { Lusitana } from "next/font/google";
 
-export const lusitana = {
-    className: "font-lusitana"
-}
+export const Lusitana = {
+  className: "font-lusitana",
+};
